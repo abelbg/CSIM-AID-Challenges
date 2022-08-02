@@ -1,5 +1,7 @@
 # AID-Challenges
 
+> For a detailed explanation please check the PDF files.
+
 ## Challenge 1 - Interactive Selection of Generative Art
 
 These algorithmically generated figures evolve over time, following the genetic algorithm steps of selection and reproduction. The fitness of a figure is tied to the length of time that the user rolls the mouse over the figure. This is known as interactive selection, a genetic algorithm with fitness values assigned by users. 
